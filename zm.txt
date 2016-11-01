@@ -9,5 +9,7 @@
 -- jeżeli chcesz podzielić -> wybierz znak dzielenia -> /
 --- wybierz drugą cyfrę/cyfry
 ---- wybierz znak równości żeby otrzymać wynik wybierz -> =
--- jeżeli chcesz pierwiastkować -> wybierz znak pierwiastka
+-- jeżeli chcesz pierwiastkować -> wybierz znak pierwiastka -> po zastosowaniu znaku pierwiastkowania pojawia się wynik
 -- jeżeli chcesz otrzymać procent -> wybierz znak mnożenia * -> wybierz drugą cyfrę/cyfry -> wybierz znak procentu -> % -> po zastosowaniu pojawia się wynik
+-- jeżeli chcesz otrzymać liczbę o przeciwnym znaku wybierz +/- 
+-- jeżeli chcesz podzielić cyfrę 1 przez dowolną cyfrę/cyfry wybierz 1/x -> po zastosowaniu pojawia się wynik
