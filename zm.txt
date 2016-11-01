@@ -13,3 +13,13 @@
 -- jeżeli chcesz otrzymać procent -> wybierz znak mnożenia * -> wybierz drugą cyfrę/cyfry -> wybierz znak procentu -> % -> po zastosowaniu pojawia się wynik
 -- jeżeli chcesz otrzymać liczbę o przeciwnym znaku wybierz +/- 
 -- jeżeli chcesz podzielić cyfrę 1 przez dowolną cyfrę/cyfry wybierz 1/x -> po zastosowaniu pojawia się wynik
+-- jeżeli chcesz dodać liczbę z wyświetlacza do wbudowanej pamięci kalkulatora -> wybierz cyfrę/cyfry -> wybierz znak działania -> wprowadź drugą cyfrę/cyfry -> wybierz znak równości = -> wybierz M+
+-- jeżeli chcesz odjąć liczbę z wyświetlacza od wbudowanej pamięci kalkulatora -> wybierz cyfrę/cyfry -> wybierz znak działania -> 
+wprowadź drugą cyfrę/cyfry -> użyj znaku = -> wybierz M- 
+-- jeżeli chcesz wyczyścić pamięć kalkulatora-> wybierz MC
+-- jeżeli chcesz usunąć ostatnia wprowadzoną liczbę-> wybierz CE
+-- jeżeli chcesz wyświetlić liczbę zapisana w pamięci-> wybierz MR
+-- jeżeli chcesz zapisać liczbę do pamięci kalkulatora-> wprowadź cyfrę/cyfry -> wybierz znak działania -> wybierz drugą cyfrę/cyfry -> użyj znaku = -> wybierz MS
+- jeżeli chcesz usunąć całe obliczenie-> wybierz C
+- jeżeli chcesz usunąć ostatnio wprowadzoną cyfrę-> wybierz <--
+- jeżeli chcesz stworzyć liczbę z przecinkiem -> wprowadź znak , między cyframi
