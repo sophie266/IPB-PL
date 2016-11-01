@@ -1,11 +1,13 @@
 - znajdz na komputerze kalkulator
-- otwórz kalkulator 
-- wyœwietl pozycjê wyjœciow¹ 0
-- podejmij decyzjê o wyborze dzia³ania
-- wybierz cyfrê/cyfry -> 0,1,2,3,4,5,6,7,8,9
--- je¿eli chcesz dodaæ -> wybierz znak dodawania -> +
--- je¿eli chcesz odj¹æ -> wybierz znak odejmowania -> -
--- je¿eli chcesz pomno¿yæ -> wybierz znak mo¿enia -> *
--- je¿eli chcesz podzieliæ -> wybierz znak dzielenia -> /
--- je¿eli chcesz pierwiastkowaæ -> wybierz znak pierwiastka
--- je¿eli chcesz otrzymaæ procent -> wybierz znak procentu -> %
+- otwÃ³rz kalkulator 
+- wyÅ›wietl pozycjÄ™ wyjÅ›ciowÄ… 0
+- podejmij decyzjÄ™ o wyborze dziaÅ‚ania
+- wybierz cyfrÄ™/cyfry -> 0,1,2,3,4,5,6,7,8,9
+-- jeÅ¼eli chcesz dodaÄ‡ -> wybierz znak dodawania -> + 
+-- jeÅ¼eli chcesz odjÄ…Ä‡ -> wybierz znak odejmowania -> -
+-- jeÅ¼eli chcesz pomnoÅ¼yÄ‡ -> wybierz znak moÅ¼enia -> *
+-- jeÅ¼eli chcesz podzieliÄ‡ -> wybierz znak dzielenia -> /
+--- wybierz drugÄ… cyfrÄ™/cyfry
+---- wybierz znak rÃ³wnoÅ›ci Å¼eby otrzymaÄ‡ wynik wybierz -> =
+-- jeÅ¼eli chcesz pierwiastkowaÄ‡ -> wybierz znak pierwiastka
+-- jeÅ¼eli chcesz otrzymaÄ‡ procent -> wybierz znak mnoÅ¼enia * -> wybierz drugÄ… cyfrÄ™/cyfry -> wybierz znak procentu -> % -> po zastosowaniu pojawia siÄ™ wynik
