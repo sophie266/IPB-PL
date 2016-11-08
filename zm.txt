@@ -23,3 +23,5 @@ wprowadź drugą cyfrę/cyfry -> użyj znaku = -> wybierz M-
 - jeżeli chcesz usunąć całe obliczenie-> wybierz C
 - jeżeli chcesz usunąć ostatnio wprowadzoną cyfrę-> wybierz <--
 - jeżeli chcesz stworzyć liczbę z przecinkiem -> wprowadź znak , między cyframi
+
+Zofia Maschke, Agata Stachewicz
