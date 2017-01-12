@@ -1,0 +1,20 @@
+
+Zofia Maschke Agata Stachewicz HZ31 
+
+1.
+SELECT * FROM [Customers]
+
+2.
+SELECT * FROM [Customers]
+WHERE Country = 'Germany'
+
+3.
+SELECT * FROM [OrderDetails]
+WHERE Quantity>10
+
+4.
+SELECT A.CustomerName, B.OrderID, C.Quantity
+FROM Customers A, Orders B, OrderDetails C
+WHERE A.CustomerID = B.CustomerID = C.Quantity
+ORDER BY A.CustomerID
+
